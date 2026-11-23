@@ -1,3 +1,6 @@
 out/
 broker-dados.json
 broker-dados.json.tmp
+
+.m2-local/
+target/
